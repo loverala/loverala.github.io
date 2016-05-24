@@ -2291,7 +2291,9 @@ ul.slickslide li img, .slick-dots button img {
 				margin-bottom:1em;
 				font-weight:700;
 			}
-			#main section.one span.quote {
+
+			#main section.one span.quote,
+			#main section div.quote {
 				color: #334;
 				font-weight:500;
 			}
