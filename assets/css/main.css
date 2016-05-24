@@ -2287,11 +2287,16 @@ ul.slickslide li img, .slick-dots button img {
 				background-color: #e8edec;
 			}
 
-			#main section.four div.quote {
+			#main section div.quote {
 				margin-bottom:1em;
+				font-weight:700;
+			}
+			#main section.one span.quote {
+				color: #334;
+				font-weight:500;
 			}
 
-			#main section.four div.signature {
+			#main section div.signature {
 				margin-right:20%;
 				margin-bottom:2em;
 				text-align:right;
