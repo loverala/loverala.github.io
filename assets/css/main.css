@@ -1,5 +1,5 @@
 @import url("font-awesome.min.css");
-@import url("http://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,600");
 
 /*
 	Prologue by HTML5 UP
@@ -104,7 +104,7 @@
 		width:30%;
 		height:370px;
 		background-repeat:no-repeat;
-		background-image:url("http://res.cloudinary.com/gmkohler/image/upload/v1463723772/lovera_spz9ac.jpg");
+		background-image:url("https://res.cloudinary.com/gmkohler/image/upload/v1463723772/lovera_spz9ac.jpg");
 		background-size:contain;
 	}
 
@@ -1862,7 +1862,7 @@ ul.slickslide li img, .slick-dots button img {
 			background: #f00;
 			background-size: 120px 160px;
 	    background-position: 57%;
-			background-image:url("http://res.cloudinary.com/gmkohler/image/upload/v1463723772/lovera_spz9ac.jpg");
+			background-image:url("https://res.cloudinary.com/gmkohler/image/upload/v1463723772/lovera_spz9ac.jpg");
 		}
 
 		.image.fit {
@@ -2323,7 +2323,7 @@ ul.slickslide li img, .slick-dots button img {
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("http://res.cloudinary.com/gmkohler/image/upload/v1463543005/paracas_hwf7np.jpg");
+				background-image: url("https://res.cloudinary.com/gmkohler/image/upload/v1463543005/paracas_hwf7np.jpg");
 			}
 
 			#main > section.two {
