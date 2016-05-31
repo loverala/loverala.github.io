@@ -1733,14 +1733,19 @@
 }
 #carousel {
 	height:400px;
-
-    margin-bottom: 0;
+  margin-bottom: 0;
 }
 ul.slick-track li img.slideshow-image {
+	object-fit: contain;
 	max-height:400px;
+	margin:auto;
+}
+ul.slick-track li .slideshow-caption {
+	width:fit-content;
+	margin:auto;
 }
 ul.slick-track li {
-	/*width: 100%;*/
+	width: 0.5%;
 }
 
 
