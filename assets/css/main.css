@@ -1742,7 +1742,7 @@ ul.slick-track li img.slideshow-image {
 	margin:auto;
 }
 ul.slick-track li .slideshow-caption {
-	width:fit-content;
+	display:table;
 	margin:auto;
 	overflow:hidden;
 }
