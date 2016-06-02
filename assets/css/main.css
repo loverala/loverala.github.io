@@ -1735,13 +1735,17 @@
 	height:500px;
   margin-bottom: 0;
 }
+ul.slick-track li {
+	height:450px;
+}
 ul.slick-track li img.slideshow-image {
 	object-fit: contain;
-	max-height:500px;
+	max-height:400px;
 	max-width:100%;
 	margin:auto;
 }
 ul.slick-track li .slideshow-caption {
+	height:50px;
 	display:table;
 	margin:auto;
 	overflow:hidden;
